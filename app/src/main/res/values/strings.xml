@@ -1,0 +1,25 @@
+<resources>
+    <string name="app_name">MyScheduler</string>
+    <string name="action_settings">Settings</string>
+    <!-- Strings used for fragments for navigation -->
+    <string name="first_fragment_label">一覧表示</string>
+    <string name="second_fragment_label">カレンダー表示</string>
+    <string name="next">Next</string>
+    <string name="previous">Previous</string>
+
+    <string name="hello_first_fragment">Hello first fragment</string>
+    <string name="hello_second_fragment">Hello second fragment. Arg: %1$s
+    </string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="schedule_edit_text">スケジュール編集</string>
+    <string name="date_text">日付</string>
+    <string name="time_text">時間</string>
+    <string name="title_text">タイトル</string>
+    <string name="detail_text">詳細</string>
+    <string name="select_date_text">日付選択</string>
+    <string name="select_time_text">時間選択</string>
+    <string name="save_text">保存</string>
+    <string name="delete_text">削除</string>
+    <string name="photo_edit_fragment">写真</string>
+</resources>
